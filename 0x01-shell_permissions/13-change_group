@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp hanane hello
+mkdir -m 751 dir_holberton
