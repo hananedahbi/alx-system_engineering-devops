@@ -1,2 +1,2 @@
 #!/bin/bash
-export Myvar="Betty"
+export HOLBERTON="Betty"
